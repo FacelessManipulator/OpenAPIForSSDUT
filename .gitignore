@@ -1,0 +1,6 @@
+/.idea/
+*.pyc
+*.xml
+*.json
+*.log
+*.tmp
